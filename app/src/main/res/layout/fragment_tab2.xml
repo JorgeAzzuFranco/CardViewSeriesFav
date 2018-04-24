@@ -5,12 +5,5 @@
     tools:context="com.jorgeazzufranco.cardviewseriesfav.Tab2Fragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/txt_series_favoritas"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:textAppearance="?android:attr/textAppearanceLarge"/>
 
 </RelativeLayout>
